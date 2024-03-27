@@ -1,0 +1,7 @@
+# Ignoring Maven build artifacts and project files
+##----------Maven----------
+*.classpath
+*.project
+*.settings
+/target/
+local.properties
