@@ -86,7 +86,7 @@ public class Heap<T extends Comparable<T>> {
      * Constructor with nodes
      *
      * @param nodes the initial nodes
-     * @see Heap#Heap(T[])
+     * @see Heap#Heap(int)
      */
     public Heap(final T[] nodes) {
         this(nodes.length);
